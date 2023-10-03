@@ -38,7 +38,7 @@ This interactive journal, designed by ThinkPlus, aims to assist young students i
 | Guangyao Chen | Scrum master                 | 1. The servant leader <br />2. Helping the team be accountable to themselves <br />3. Making commitments |
 | Zhuyun Lu     | Development environment lead | 1. Understands the technology <br />2. Manages development configuration <br />3. Provide resources for tool/technology learning |
 | Chia-Chi Hsu  | Development environment lead | 1. Understands the technology <br />2. Manages development configuration <br />3. Provide resources for tool/technology learning |
-| Jiani Ouyang  | Quality lead                 | 1. Ensure processes are defined to achieve fitness-for-purpose <br />2. Ensure processes are followed (or modified if not working) |
+| Jiani Ouyang  |Development environment lead  | 1. Understands the technology <br />2. Manages development configuration <br />3. Provide resources for tool/technology learning |
 |               |                              |                                                              |
 
 ## Chang Log
