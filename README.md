@@ -17,8 +17,8 @@ This interactive journal, designed by ThinkPlus, aims to assist young students i
 
 | Name          | Role                         | Email                               |
 | ------------- | ---------------------------- | ----------------------------------- |
-| Celi          | Client                       | educationdesigngroup@outlook.com.au |
-| Eilot         | Project Supervisor           | elliot.hill1@unimelb.edu.au         |
+| Celia          | Client                       | educationdesigngroup@outlook.com.au |
+| Elliot         | Project Supervisor           | elliot.hill1@unimelb.edu.au         |
 | Kaibo Zhang   | Product owner                | kaiboz@student.unimelb.edu.au       |
 | Guangyao Chen | Scrum master                 | guangyaoc@student.unimelb.edu.au    |
 | Zhuyun Lu     | Development environment lead | zhuyunl1@student.unimelb.edu.au     |
@@ -32,8 +32,8 @@ This interactive journal, designed by ThinkPlus, aims to assist young students i
 
 | Name          | Role                         | Role Definition                                              |
 | ------------- | ---------------------------- | ------------------------------------------------------------ |
-| Celi          | Client                       |                                                              |
-| Eilot         | Project Supervisor           |                                                              |
+| Celia          | Client                       |                                                              |
+| Elliot         | Project Supervisor           |                                                              |
 | Kaibo Zhang   | Product owner                | 1. Representing the interests of the client <br />2. Managing the product backlog |
 | Guangyao Chen | Scrum master                 | 1. The servant leader <br />2. Helping the team be accountable to themselves <br />3. Making commitments |
 | Zhuyun Lu     | Development environment lead | 1. Understands the technology <br />2. Manages development configuration <br />3. Provide resources for tool/technology learning |
@@ -54,7 +54,7 @@ This interactive journal, designed by ThinkPlus, aims to assist young students i
 ## Product TimeLine
 
 Sprint 1 : 24/07/2023 ~ 27/08/2023
-Sprint 2 : 28/08/2023 ~ 17/09/2023
-Sprint 3 : 18/09/2023 ~ 15/10/2023
+Sprint 2 : 28/08/2023 ~ 23/09/2023
+Sprint 3 : 24/09/2023 ~ 20/10/2023
 
 ## Deployment Guide
